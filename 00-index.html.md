@@ -3,7 +3,7 @@ title: Welcome to the Mailchimp Content Style Guide
 layout: article
 ---
 
-This style guide was created for Mailchimp employees, but we hope it’s helpful for other content and communications teams too.
+This style guide was created for Mailchimp employees, but we hope it’s helpful for other content and communications teams too. testing
 
 ## If you work at Mailchimp
 
